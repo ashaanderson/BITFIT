@@ -33,7 +33,7 @@ ough
 
 Here's a walkthrough of implemented user stories:
 
-<>![Kapture 2022-10-03 at 21 21 05](https://user-images.githubusercontent.com/83426123/193714523-d0dc2a94-4042-4f11-bd4b-08f464deaf64.gif)
+![Kapture 2022-12-12 at 22 50 18](https://user-images.githubusercontent.com/83426123/207222221-ef289d7f-0b5d-4eb8-9e62-f84473fdf209.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
